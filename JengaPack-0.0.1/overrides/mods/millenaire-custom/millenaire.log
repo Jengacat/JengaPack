@@ -1,0 +1,47 @@
+8.0.1 24-03-2020 19:35:55 Starting new session. Mods: examplemod 
+8.0.1 24-03-2020 19:37:25 MAJOR: null: Loading language: en_us
+8.0.1 24-03-2020 19:37:25 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 19:37:25 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 19:37:25 ERROR: Culture: byzantines: en_us: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 19:37:25 ERROR: Culture: byzantines: en: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 19:37:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.1 24-03-2020 20:15:07 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2f043c06: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 20:15:12 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2f043c06: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 20:15:17 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2f043c06: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 20:21:18 Starting new session. Mods: examplemod 
+8.0.1 24-03-2020 20:23:05 MAJOR: null: Loading language: en_us
+8.0.1 24-03-2020 20:23:05 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 20:23:05 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 20:23:05 ERROR: Culture: byzantines: en_us: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 20:23:05 ERROR: Culture: byzantines: en: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 20:23:06 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.1 24-03-2020 20:24:31 Starting new session. Mods: examplemod 
+8.0.1 24-03-2020 20:26:07 MAJOR: null: Loading language: en_us
+8.0.1 24-03-2020 20:26:07 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 20:26:07 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 20:26:07 ERROR: Culture: byzantines: en_us: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 20:26:07 ERROR: Culture: byzantines: en: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 20:26:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.1 24-03-2020 21:43:44 Starting new session. Mods: examplemod 
+8.0.1 24-03-2020 21:46:07 MAJOR: null: Loading language: en_us
+8.0.1 24-03-2020 21:46:07 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 21:46:07 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 21:46:07 ERROR: Culture: byzantines: en_us: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 21:46:07 ERROR: Culture: byzantines: en: In dialogue file /Users/calebpierce/Desktop/Dick/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 21:46:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.1 24-03-2020 21:55:02 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:10 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:15 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:34 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:38 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:45 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:50 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 21:55:55 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@697c5c11: No TileEntitySign at: 251/75/12396
+8.0.1 24-03-2020 22:01:36 Starting new session. Mods: examplemod 
+8.0.1 24-03-2020 22:03:41 MAJOR: null: Loading language: en_us
+8.0.1 24-03-2020 22:03:41 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Twitch/Minecraft/Instances/JengaPack/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 22:03:41 ERROR: null: Key goal.mineiron2 is present more than once in /Users/calebpierce/Twitch/Minecraft/Instances/JengaPack/mods/millenaire/languages/en/strings.txt
+8.0.1 24-03-2020 22:03:41 ERROR: Culture: byzantines: en_us: In dialogue file /Users/calebpierce/Twitch/Minecraft/Instances/JengaPack/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 22:03:41 ERROR: Culture: byzantines: en: In dialogue file /Users/calebpierce/Twitch/Minecraft/Instances/JengaPack/mods/millenaire/languages/en/byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 24-03-2020 22:03:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
